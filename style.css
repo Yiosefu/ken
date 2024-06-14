@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(206, 121, 60);
+    margin: 0px;
+    font-size: 20px;
+}
+
+#header{
+    background-color: rgb(187, 118, 95);
+    font-size: 150%;
+    padding: 10px;
+    text-align: center;
+}
+
+
+#header a{
+    text-decoration: none;
+    color: rgb(60, 9, 9);
+    padding: 0px 10px;
+    border: 2px solid rgb(118, 67, 67);
+    background-color: rgb(206, 109, 77);
+    border-radius: 50px;
+}
+
+#header a:hover{
+    background-color:rgb(124, 36, 7);
+    color: rgb(255, 140, 98);
+}
+
+/*fam3*/
+#fam{
+    text-align: center;
+    border:5px dotted white;
+    list-style-position: inside;
+}
+
+#fam3{
+    border:10px solid pink;
+    box-shadow: 0 0 10px rgb(221, 112, 112);
+}
+
+#fam h2{
+    border:10px solid rgb(255, 131, 152);
+    box-shadow: 0 0 30px rgb(221, 112, 112);
+}
+
+/*scheds*/
+#sched2{
+    text-align: center;
+    border:5px dotted white;
+    list-style-position: inside;
+}
+
+#scheds{
+    border:10px solid pink;
+    box-shadow: 0 0 10px rgb(221, 112, 112);
+}
+
+#sched2 h2{
+    border:10px solid rgb(255, 131, 152);
+    box-shadow: 0 0 30px rgb(221, 112, 112);
+}
+
+#sched2 h3{
+    border:5px solid rgb(243, 70, 98);
+    box-shadow: 0 0 30px rgb(221, 112, 112);
+}
+
+/*akocken*/
+#akocken{
+    text-align: center;
+    border:5px dotted white;
+    list-style-position: inside;
+}
+
+#About_me{
+    border:10px solid pink;
+    box-shadow: 0 0 10px rgb(221, 112, 112);
+}
+
+#akocken h2{
+    border:10px solid rgb(255, 131, 152);
+    box-shadow: 0 0 30px rgb(221, 112, 112);
+}
+
+#pogiko{
+    width: 100px;
+    padding: 10px;
+}
+
